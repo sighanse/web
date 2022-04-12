@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: Tittel fra config.yml
+title: Tittel fra tittelfeltet i config.yml
 description: [Beskrivelse inkl klammer]
+google_analytics: UA-35910262-1
