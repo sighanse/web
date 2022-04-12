@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: Tittel fra config.yml
+description: [Beskrivelse inkl klammer]
