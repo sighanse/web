@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Firmanavn AS
-description: [Når alt annet er prøvd, og du har ingen andre å gå til]
+#description: [Når alt annet er prøvd, og du har ingen andre å gå til]
+description: "Når alt annet er prøvd, og du har ingen andre å gå til"
 google_analytics: UA-35910262-1
 show_downloads: false
