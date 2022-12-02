@@ -4,6 +4,6 @@ title: Kontaktinformasjon
 # Kontaktinformasjon
 Sigurd Hansen
 
-E-post: sigurd.hansen@gmail.com
+E-post: sigurd@portarthur.no
 
 [Hovedside](index.md)
