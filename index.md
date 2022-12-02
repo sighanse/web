@@ -1,5 +1,5 @@
 ---
-title: Testing title hentet fra index.md
+title: Port Arthur
 ---
-# Velkommen index.md
+# Velkommen
 [Kontaktinformasjon](contact.md)
