@@ -2,8 +2,7 @@
 title: Kontaktinformasjon
 ---
 # Kontaktinformasjon
-Sigurd Hansen
-
-E-post: sigurd@portarthur.no
+Sigurd Hansen: sigurd@portarthur.no
+Tor-Erik Storøy: tor.erik@portarthur.no
 
 [Hovedside](index.md)
